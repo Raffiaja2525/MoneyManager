@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Money Manager</string>
+
+    <!-- Navigation Drawer -->
+    <string name="nav_header_subtitle">Kelola Keuangan Anda</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_history">Riwayat Transaksi</string>
+    <string name="nav_add_transaction">Tambah Transaksi</string>
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="total_pemasukan">Total Pemasukan</string>
+    <string name="total_pengeluaran">Total Pengeluaran</string>
+    <string name="saldo">Saldo</string>
+    <string name="riwayat_transaksi">Riwayat Transaksi</string>
+    <string name="riwayat_terbaru">Riwayat Transaksi Terbaru</string>
+    <string name="tidak_ada_transaksi">Belum ada transaksi</string>
+
+    <!-- Add Transaction -->
+    <string name="tambah_transaksi">Tambah Transaksi</string>
+    <string name="edit_transaksi">Edit Transaksi</string>
+    <string name="nominal">Nominal</string>
+    <string name="hint_nominal">Masukkan nominal</string>
+    <string name="jenis_transaksi">Jenis Transaksi</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="hint_keterangan">Masukkan keterangan</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="pilih_tanggal">Pilih Tanggal</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+
+    <!-- Validation Messages -->
+    <string name="error_nominal_kosong">Nominal tidak boleh kosong</string>
+    <string name="error_keterangan_kosong">Keterangan tidak boleh kosong</string>
+    <string name="error_tanggal_kosong">Silakan pilih tanggal</string>
+    <string name="transaksi_berhasil">Transaksi berhasil disimpan</string>
+    <string name="transaksi_diupdate">Transaksi berhasil diupdate</string>
+
+    <!-- Delete Dialog -->
+    <string name="hapus_transaksi">Hapus Transaksi</string>
+    <string name="konfirmasi_hapus">Apakah Anda yakin ingin menghapus transaksi ini?</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="transaksi_dihapus">Transaksi berhasil dihapus</string>
+
+    <!-- Edit / Delete Menu -->
+    <string name="edit">Edit</string>
+    <string name="hapus">Hapus</string>
+    <string name="pilih_aksi">Pilih Aksi</string>
+
+    <!-- Multi-Select -->
+    <string name="pilih_semua">Pilih Semua</string>
+    <string name="batalkan_pilihan">Batal Pilih Semua</string>
+    <string name="item_dipilih">%d dipilih</string>
+    <string name="konfirmasi_hapus_banyak">Apakah Anda yakin ingin menghapus %d transaksi?</string>
+
+    <!-- Currency -->
+    <string name="rp_0">Rp 0</string>
+</resources>
+
+
+

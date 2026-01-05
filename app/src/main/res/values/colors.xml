@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="colorAccent">#FFC107</color>
+
+    <!-- Transaction Colors -->
+    <color name="income_color">#4CAF50</color>       <!-- Hijau untuk pemasukan -->
+    <color name="expense_color">#F44336</color>      <!-- Merah untuk pengeluaran -->
+
+    <!-- Background Colors -->
+    <color name="background_light">#F5F5F5</color>
+    <color name="card_background">#FFFFFF</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+</resources>
+
